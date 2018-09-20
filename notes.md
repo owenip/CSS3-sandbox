@@ -1,8 +1,8 @@
 ## Link
-[CSS HSL](#cSS-hSL)     
-[CSS ::before Selector](#cSS-::before-selector)     
-[CSS radial-gradient()](#cSS-radial-gradient())     
-[CSS data type: `<position>`](#cSS-data-type:-`<position>`)        
+[CSS HSL](#css-hsl)     
+[CSS ::before Selector](#css-before-selector)     
+[CSS radial-gradient()](#css-radial-gradient)     
+[CSS data type: `<position>`](#css-data-typeposition)        
 
 ## CSS HSL
 HSL stands for hue, saturation and lightness.       
